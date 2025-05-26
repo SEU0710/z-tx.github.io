@@ -25,7 +25,7 @@ Self-Intruduction
 - *2025.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📝 Publications 
+# 📝 Publications
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,6 +41,7 @@ Self-Intruduction
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -58,3 +59,7 @@ Self-Intruduction
 # 💻 Work Exprience
 - *2024.07 - 2025.02*, Engineer in CIEM, Nanjing China.
 - *2021.11 - 2022.03*, Assistant in HIT, Harbin, China.
+# 项目参与
+- * 1 * -, 国家自然科学基金面上（参与）
+- * 2 * -, 国家自然科学基金面上（参与）
+- * 3 * -, XXXXXX（负责）
