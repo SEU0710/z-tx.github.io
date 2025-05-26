@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Zhang Tianxiang"
-description              : "A doctoral student."
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "A Ph.D. student specializing in the information security of intelligent connected vehicles."
+repository               : "SEU0710/z-tx.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhang Tianxiang"
   avatar           : "images/fox-img.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Southeast University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
